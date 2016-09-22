@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-<html>
-    {% include head.html %}
-    <body id="page-top" class="index">
-    {% include nav.html %}
-    {% include header.html %}
-	{% include projects_grid.html %}
-    {% include about.html %}
-	{% include posts.html %}
-    {% include footer.html %}
-    {% include js.html %}
-    </body>
-</html>
+{% include _head.html %}
+{%include _header.html %}
+<main class="posts">
+{{ content }}
+</main>
+{% include _footer.html %}
