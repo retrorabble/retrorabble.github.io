@@ -138,7 +138,7 @@ If file transfer is working as expected, you'll see telemetry in the DOSBox wind
 
 That's pretty much it! Happy file transferring!
 
-###Crank up the speed
+### Crank up the speed
 
 9600 bits per second is a little slow. If you want to speed things up a little, try the following:
 
