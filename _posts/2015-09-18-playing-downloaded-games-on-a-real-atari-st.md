@@ -19,9 +19,9 @@ Disk images are freely available on the web (use Google). <a href="http://www.em
 
 Once you have a disk image, you need to make it physically playable on the Atari ST. Your options:
 
-1. Use your PC to prepare a bootable game disk. Then put the game disk into your ST, power on and boot the game
-2. Transfer the disk image to your ST. Then use your ST to prepare a bootable game disk.
-3. Transfer the disk image to your ST. Then mount it as a <a href="https://en.wikipedia.org/wiki/RAM_drive" target="_blank">RAM disk</a> and run the game directly.
+1. [Use your PC to prepare a bootable game disk]({% post_url 2015-09-22-use-your-pc-to-create-a-bootable-atari-st-game-disk %}). Then put the game disk into your ST, power on and boot the game
+2. [Transfer the disk image to your ST]({% post_url 2015-12-26-transferring-files-from-pc-to-st %}). Then use your ST to prepare a bootable game disk.
+3. [Transfer the disk image to your ST]({% post_url 2015-12-26-transferring-files-from-pc-to-st %}). Then mount it as a <a href="https://en.wikipedia.org/wiki/RAM_drive" target="_blank">RAM disk</a> and run the game directly.
 4. Purchase and use a <a href="https://en.wikipedia.org/wiki/Floppy_disk_hardware_emulator" target="_blank">floppy emulator</a>. Floppy emulators are a hardware solution that trick the ST into thinking a disk image is a real game disk
 
 ### Option 2. Use Hard Disk Adaptations
@@ -35,20 +35,11 @@ Over time, hard disk adaptations appeared for almost all popular titles. You can
 To play a hard disk adaptation, all you need to do is:
 
 1. Download it
-2. Transfer it to your ST
+2. [Transfer it to your ST]({% post_url 2015-12-26-transferring-files-from-pc-to-st %})
 3. Launch the file from within the Desktop UI
 
 ### How Do I Transfer Files From PC to ST?
 
-Several of the solutions above rely on transferring files from PC to ST.
+Several of the solutions above rely on transferring files from PC to ST. I've already explored this in detail and you [can find more detail over here]({% post_url 2015-12-26-transferring-files-from-pc-to-st %})
 
-I can think of several ways to do this:
-
-1. Use floppy disks to shuffle files back and forth between PC and ST
-2. Use a serial cable (and accompanying software) to transfer files from PC to ST
-3. Use a parallel cable (and accompanying software) to transfer files
-4. Use an Ethernet adapter (there are <a href="http://lotharek.pl/product.php?pid=73" target="_blank">various adapters</a> <a href="http://hardware.atari.org/ether/" target="_blank">out there</a>)
-
-The <a href="http://www.atari-wiki.com/?title=Transferring_Files" target="_blank">Atari Forum Wiki has more information</a>.
-
-Phew! Quite a lot to be getting on with! Time to try some of these out. I'll update this post as I investigate the various options.
+That's pretty much it. Happy retrogaming!
