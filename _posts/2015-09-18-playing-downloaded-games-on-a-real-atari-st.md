@@ -9,7 +9,7 @@ Author: <a href="http://www.twitter.com/jamesfmackenzie" target="_blank">@jamesf
 
 As discussed before, I want to [play some downloaded games on my Atari ST]({% post_url 2015-08-15-atari-in-the-attic %}).
 
-But first we need to get them there. Here are the high level options:
+But first we need to get them there. Here are the options:
 
 ### Option 1. Use Disk Images
 
@@ -40,6 +40,6 @@ To play a hard disk adaptation, all you need to do is:
 
 ### How Do I Transfer Files From PC to ST?
 
-Several of the solutions above rely on transferring files from PC to ST. I've already explored this in detail and you [can find more detail over here]({% post_url 2015-12-26-transferring-files-from-pc-to-st %})
+Several of the solutions above rely on transferring files from PC to ST. I've already explored this and you [can find the details here]({% post_url 2015-12-26-transferring-files-from-pc-to-st %})
 
 That's pretty much it. Happy retrogaming!
