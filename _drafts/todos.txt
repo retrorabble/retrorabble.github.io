@@ -20,8 +20,4 @@ Technical todos
 * Recent Tweets
 * Google rich snippets - https://support.google.com/webmasters/answer/99170. Also do the same for Twitter
 * Structured data - http://www.bigthinkingapplied.com/sharing-on-the-web-with-structured-data/
-* Pocketed items
-* Xbox achievements
-* Playstation trophies
-* YouTube videos posted
-* Stack overflow posts
+* Move youtube videos to retrorabble youtube account
