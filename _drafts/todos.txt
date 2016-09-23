@@ -1,15 +1,10 @@
 Content strategy
 ---
 
-Focus on Atari ST content for the next few months with the following themes:
-
-1. Transferring files
-2. Playing downloaded games
-3. Game reviews
-4. Getting an Atari ST on the Web
-5. Getting the best picture quality out of your ST
-6. ?
-
+Next articles to write under "playing_downloaded_st_games":
+* Atari ST - use your ST to prepare a bootable game disk
+* Atari ST - run a game from RAM Disk
+* Atari ST - playing a hard disk adaptation (video - end to end)
 
 Technical todos
 ---
