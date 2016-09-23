@@ -7,8 +7,6 @@
 		? Other?
 	• Video capture via cool Micomsoft cap card
 	• PS2 refurb with OPL, instructables controller clean and component cable
-	• Xbox One as a Freeview tuner
-	• Xbox One as a satellite tuner
 	• Raspberry Pi as an Acorn machine
 	• Getting old Atari ST games running with Steem
 	• Getting Archimedes games running with Arculator. Inspired by http://www.theregister.co.uk/2012/06/01/acorn_archimedes_is_25_years_old/
@@ -16,20 +14,4 @@
 	• Get AtariST surfing the web. Check out links in Pocket tagged atariinternetproject
 	• Get the old Mac Mini working as a Steam machine, with wireless controller support
 	• Give your old Wii, GameCube, PS2 games a 1080p upgrade
-	• Post cover images. Pretty awesome. http://blog.ghost.org/post-cover-images/
-	• "Open Command Window Here" and "Explorer ."
-	• Does Agile require org change? How do traditional IT roles need to change to support Agile?
-	• Put together and publish a techie book list e.g. GOOS, Refactoring Legacy code, Clean Code, Clean Code 2
-	• Using text-to-speech with iPhone, Kindle app and accessibility / text to speech
-	• Try making JS games with Coquette.js http://superbigtree.tumblr.com/post/57993562778/introduction-to-making-html5-javascript-games-with
-	• How to host a LAN party
-	• Ran out of disk space! What to do? try TreeSize Free
-	• Make your own Cloud on the cheap. Turn USB disk into a NAS + sync node for Bittorrent sync
-	• Do something will scrolling LED board (check out instructibles)
-	• Take the "one game per week" programming challenge 
-	• Take the "one language per week" programming challenge
-	• Mess about with Protractor
-	• mine craft cellular automata. Particularly for wave simulation.
-	• mturk.com can any tasks be automated through programming?
-	• iOS car accelerometer - how fast do you accelerate/brake compared to the average?
-	• Raspberry Pi ambilight
+	
