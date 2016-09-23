@@ -2,7 +2,7 @@
 layout: post
 title: Playing Downloaded Games on a Real Atari ST
 date: '2015-09-18 22:33:00'
-tags: [atari, atari_st, playing_downloaded_atari_st_games]
+tags: [atari, atari st, playing downloaded atari st games]
 ---
 
 Author: <a href="http://www.twitter.com/jamesfmackenzie" target="_blank">@jamesfmackenzie</a>

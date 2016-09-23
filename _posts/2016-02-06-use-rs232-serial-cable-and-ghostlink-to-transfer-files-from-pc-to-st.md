@@ -2,7 +2,7 @@
 layout: post
 title: Using Serial Cable and Ghostlink to Transfer Files from PC to ST
 date: '2016-02-06 17:32:00' 
-categories: transferring_files_from_pc_to_st
+tags: [atari, atari st, transferring files from pc to st]
 ---
 
 Author: <a href="http://www.twitter.com/jamesfmackenzie" target="_blank">@jamesfmackenzie</a>

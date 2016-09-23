@@ -2,7 +2,7 @@
 layout: post
 title: Using an SD card and Ultrasatan to Transfer Files from PC to ST
 date: '2016-03-08 10:16:00'
-categories: transferring_files_from_pc_to_st
+tags: [atari, atari st, transferring files from pc to st]
 ---
 
 Author: <a href="http://www.twitter.com/jamesfmackenzie" target="_blank">@jamesfmackenzie</a>

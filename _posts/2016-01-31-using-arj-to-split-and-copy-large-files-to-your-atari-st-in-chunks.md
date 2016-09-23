@@ -2,7 +2,7 @@
 layout: post
 title: How to Split and Copy Large Files to Your Atari ST in Chunks
 date: '2016-01-31 17:47:00'
-categories: transferring_files_from_pc_to_st
+tags: [atari, atari st, transferring files from pc to st]
 ---
 
 Author: <a href="http://www.twitter.com/jamesfmackenzie" target="_blank">@jamesfmackenzie</a>

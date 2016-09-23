@@ -2,7 +2,7 @@
 layout: post
 title: A Trip Down Memory Lane (There's Treasure in That There Attic)
 date: '2015-11-24 21:43:30'
-tags: gaming_culture
+tags: [gaming culture]
 ---
 
 Author: <a href="http://www.twitter.com/jamesfmackenzie" target="_blank">@jamesfmackenzie</a>
