@@ -94,4 +94,7 @@ That's it! You should now have a working game disk. Put it in your ST and play!
 
 I've put together a video copy of this guide too. Find it embedded below.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/Tu52dALu6lQ" frameborder="0" allowfullscreen></iframe>
+<div class="youtube-container">
+<iframe src="https://www.youtube.com/embed/Tu52dALu6lQ" 
+frameborder="0" allowfullscreen class="youtube-video"></iframe>
+</div> 
