@@ -4,6 +4,8 @@ title: A Trip Down Memory Lane (There's Treasure in That There Attic)
 date: '2015-11-24 21:43:30'
 ---
 
+Author: <a href="http://www.twitter.com/jamesfmackenzie" target="_blank">@jamesfmackenzie</a>
+
 <div class="youtube-container">
 <iframe src="https://www.youtube.com/embed/exIyLQFhbD4?rel=0" 
 frameborder="0" allowfullscreen class="youtube-video"></iframe>

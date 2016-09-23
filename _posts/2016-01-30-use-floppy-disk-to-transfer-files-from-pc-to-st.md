@@ -5,6 +5,8 @@ date: '2016-01-30 22:30:00'
 categories: transferring_files_from_pc_to_st
 ---
 
+Author: <a href="http://www.twitter.com/jamesfmackenzie" target="_blank">@jamesfmackenzie</a>
+
 <div class="youtube-container">
 <iframe src="https://www.youtube.com/embed/HwcleHTcZr8?rel=0" 
 frameborder="0" allowfullscreen class="youtube-video"></iframe>

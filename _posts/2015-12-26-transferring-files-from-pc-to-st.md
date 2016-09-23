@@ -5,6 +5,8 @@ date: '2015-12-26 10:13:00'
 categories: transferring_files_from_pc_to_st
 ---
 
+Author: <a href="http://www.twitter.com/jamesfmackenzie" target="_blank">@jamesfmackenzie</a>
+
 At some point, you'll most likely want to transfer files from PC to ST. Some common approaches are:
 
 * [Use floppy disks to shuffle files back and forth between PC and ST]({% post_url 2016-01-30-use-floppy-disk-to-transfer-files-from-pc-to-st %})
