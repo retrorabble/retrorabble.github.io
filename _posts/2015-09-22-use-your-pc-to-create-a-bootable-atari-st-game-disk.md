@@ -2,7 +2,7 @@
 layout: post
 title: Use Your PC to Create a Bootable Atari ST Game Disk
 date: '2015-09-22 11:37:00'
-categories: playing_downloaded_atari_st_games
+tags: [atari, atari_st, playing_downloaded_atari_st_games]
 ---
 
 Author: <a href="http://www.twitter.com/jamesfmackenzie" target="_blank">@jamesfmackenzie</a>

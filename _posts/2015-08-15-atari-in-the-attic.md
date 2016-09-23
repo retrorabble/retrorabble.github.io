@@ -2,7 +2,7 @@
 layout: post
 title: Atari in the Attic
 date: '2015-08-15 21:19:00'
-categories: playing_downloaded_atari_st_games
+tags: [atari, atari_st, playing_downloaded_atari_st_games]
 ---
 
 Author: <a href="http://www.twitter.com/jamesfmackenzie" target="_blank">@jamesfmackenzie</a>
